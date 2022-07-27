@@ -1,0 +1,17 @@
+.header
+{
+ 
+	border: 3px solid whitesmoke;
+}
+.message
+{
+	margin: 4rem;
+}
+.regform
+{
+	margin: 6rem;
+}
+.captcha
+{
+	margin-top:36px;
+}
